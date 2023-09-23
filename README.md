@@ -17,4 +17,4 @@ Also contains the certificate of completion delivered by Nvidia.
 
 
 
-### The Workshop took place 02/11/2022 in hour University Lab and was 8 Hours long  
+### The Workshop took place 02/11/2022 in our University Lab and was 8 Hours long  
